@@ -47,6 +47,7 @@
 static const AppRule rules[] = { \
     /*  class      desktop    follow */
     { "MPlayer",      2,       True   },
+    { "Deluge",       2,       False  },
 };
 
 /* helper for spawning shell commands */
